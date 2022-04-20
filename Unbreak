@@ -9,10 +9,13 @@ DOMAIN,sycm.mmstat.com,DIRECT
 # > China Social
 DOMAIN-KEYWORD,xhscdn,DIRECT
 # > Tencent
+DOMAIN-SUFFIX,wechat.com,DIRECT
 DOMAIN,fairplay.l.qq.com,DIRECT
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
 DOMAIN,vi.l.qq.com,DIRECT
+IP-CIDR,101.32.104.4/32,DIRECT
+IP-CIDR,101.32.118.25/32,DIRECT
 # > Strava
 DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
