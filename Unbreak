@@ -10,6 +10,7 @@ DOMAIN,sycm.mmstat.com,DIRECT
 DOMAIN-KEYWORD,xhscdn,DIRECT
 # > Tencent
 DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
 DOMAIN,fairplay.l.qq.com,DIRECT
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
