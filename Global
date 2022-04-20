@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,zynamics.com,PROXY
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
 DOMAIN-SUFFIX,goog,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
 # > Automattic
