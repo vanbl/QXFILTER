@@ -363,6 +363,12 @@ DOMAIN-SUFFIX,redditstatic.com,PROXY
 # > Reuters
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
+# > Speedtest
+HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,speed.cloudflare.com,Speedtest
+HOST-SUFFIX,speed.dler.io,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
+USER-AGENT,SpeedTest*,Speedtest
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 # DOMAIN,store.steampowered.com,PROXY
