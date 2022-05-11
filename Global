@@ -365,6 +365,7 @@ DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
 # > Speedtest
 HOST-SUFFIX,ooklaserver.net,Speedtest
+HOST-SUFFIX,speedtest.net,Speedtest
 HOST-SUFFIX,speed.cloudflare.com,Speedtest
 HOST-SUFFIX,speed.dler.io,Speedtest
 HOST-KEYWORD,speedtest,Speedtest
