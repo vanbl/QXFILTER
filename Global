@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,conoha.jp,PROXY
 DOMAIN-SUFFIX,coursehero.com,PROXY
 DOMAIN-SUFFIX,c-span.org,PROXY
 DOMAIN-SUFFIX,dailymotion.com,PROXY
+DOMAIN-SUFFIX,dailymail.com,PROXY
+DOMAIN-SUFFIX,dailymail.co.uk,PROXY
 DOMAIN-SUFFIX,daum.net,PROXY
 DOMAIN-SUFFIX,deadline.com,PROXY
 DOMAIN-SUFFIX,depositphotos.com,PROXY
