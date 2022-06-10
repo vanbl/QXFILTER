@@ -6,6 +6,7 @@ DOMAIN,bdtj.tagtic.cn,DIRECT
 # > Alibaba
 DOMAIN,log.mmstat.com,DIRECT
 DOMAIN,sycm.mmstat.com,DIRECT
+DOMAIN,mobilegw.alipay.com,DIRECT
 # > China Social
 DOMAIN-KEYWORD,xhscdn,DIRECT
 # > Tencent
