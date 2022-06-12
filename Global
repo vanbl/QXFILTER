@@ -363,16 +363,25 @@ DOMAIN-SUFFIX,nytlog.com,PROXY
 DOMAIN-SUFFIX,nytstyle.com,PROXY
 DOMAIN-SUFFIX,tmagazine.com,PROXY
 # > Twitter
-DOMAIN-SUFFIX,periscope.tv,PROXY
-DOMAIN-SUFFIX,pscp.tv,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,tweetdeck.com,PROXY
-DOMAIN-SUFFIX,twimg.co,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitpic.com,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,twitter.jp,PROXY
-DOMAIN-SUFFIX,vine.co,PROXY
+HOST-SUFFIX,ads-twitter.com,PROXY
+HOST-SUFFIX,periscope.tv,PROXY
+HOST-SUFFIX,pscp.tv,PROXY
+HOST-SUFFIX,t.co,PROXY
+HOST-SUFFIX,tellapart.com,PROXY
+HOST-SUFFIX,tweetdeck.com,PROXY
+HOST-SUFFIX,twimg.co,PROXY
+HOST-SUFFIX,twimg.com,PROXY
+HOST-SUFFIX,twimg.org,PROXY
+HOST-SUFFIX,twitpic.com,PROXY
+HOST-SUFFIX,twitter.com,PROXY
+HOST-SUFFIX,twitter.jp,PROXY
+HOST-SUFFIX,twitterinc.com,PROXY
+HOST-SUFFIX,twitteroauth.com,PROXY
+HOST-SUFFIX,twitterstat.us,PROXY
+HOST-SUFFIX,twtrdns.net,PROXY
+HOST-SUFFIX,twttr.com,PROXY
+HOST-SUFFIX,vine.co,PROXY
+HOST-KEYWORD,twitter,PROXY
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org,PROXY
 DOMAIN-SUFFIX,wikibooks.org,PROXY
