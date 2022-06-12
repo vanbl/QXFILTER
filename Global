@@ -362,6 +362,17 @@ DOMAIN-SUFFIX,nytimg.com,PROXY
 DOMAIN-SUFFIX,nytlog.com,PROXY
 DOMAIN-SUFFIX,nytstyle.com,PROXY
 DOMAIN-SUFFIX,tmagazine.com,PROXY
+# > Twitter
+DOMAIN-SUFFIX,periscope.tv,PROXY
+DOMAIN-SUFFIX,pscp.tv,PROXY
+DOMAIN-SUFFIX,t.co,PROXY
+DOMAIN-SUFFIX,tweetdeck.com,PROXY
+DOMAIN-SUFFIX,twimg.co,PROXY
+DOMAIN-SUFFIX,twimg.com,PROXY
+DOMAIN-SUFFIX,twitpic.com,PROXY
+DOMAIN-SUFFIX,twitter.com,PROXY
+DOMAIN-SUFFIX,twitter.jp,PROXY
+DOMAIN-SUFFIX,vine.co,PROXY
 # > Wikimedia Foundation
 DOMAIN-SUFFIX,mediawiki.org,PROXY
 DOMAIN-SUFFIX,wikibooks.org,PROXY
