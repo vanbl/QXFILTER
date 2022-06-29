@@ -6,9 +6,13 @@ DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,origin-a.akamaihd.ne,DIRECT
 # ---(Microsoft)---
 # > Outlook
-DOMAIN,outlook.office365.com,DIRECT
-DOMAIN,smtp-mail.outlook.com,DIRECT
-DOMAIN,smtp.office365.com,DIRECT
+DOMAIN,in.appcenter.ms,DIRECT
+DOMAIN-SUFFIX,outlook.com,DIRECT
+DOMAIN-SUFFIX,office365.com,DIRECT
+DOMAIN-SUFFIX,microsoft.com,DIRECT
+DOMAIN-SUFFIX,live.com,DIRECT
+DOMAIN-SUFFIX,skype.com,DIRECT
+DOMAIN-KEYWORD,outlookmobile,DIRECT
 # > Windows Server Update Services
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
 DOMAIN-SUFFIX,update.microsoft.com,DIRECT
